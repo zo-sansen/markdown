@@ -105,13 +105,14 @@
 事例：\!\[markdown创始人](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif)
 
-###图片大小(暂时不知道为什么不行)
+### 图片大小(暂时不知道为什么不行)
+
 语法
 > \!\[](...=300-300-r)
 
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r)
 
-html标签方式
+### html标签方式
 >       <p align="center">
 >           <img src="https://img-blog.csdn.net/20180904102458446?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVjaHJpczAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="Sample"  width="250" height="140">
 >           <p align="center">
@@ -163,6 +164,11 @@ java | html | js
 - [x] Android
 - [ ] C#
 - [ ] .NET
+
+## git:Emoji表情(github特有的特性)
+:sleeping:
+:anguished:
+:raised_hand:
 
 ## other
 - 反斜杠\：转义符
