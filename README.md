@@ -131,7 +131,7 @@
 
 <p align="center">
     <img src="/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
-    <p align="center">
+    <p align="leaft">
         <em>html图片示例</em>
     </p>
 </p>
@@ -170,21 +170,14 @@ java | html | js
 > - "\:"对其方式
 
 ```flow
-st=>start: Start :>https://amwiki.xf09.net[blank]
-e=>end: End :>https://amwiki.xf09.net[blank]
-op1=>operation: My Operation
-op2=>operation: Stuff
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes or No? :>https://amwiki.xf09.net[blank]
-c2=>condition: Good idea
-io=>inputoutput: catch something...
-
-st->op1(right)->cond
-cond(yes, right)->c2
-cond(no)->sub1(left)->op1
-c2(yes)->io->e
-c2(no)->op2->e
-```
+st=>start: 开始
+op=>operation: My Operation
+cond=>condition: Yes or No?
+e=>end
+st->op->cond
+cond(yes)->e
+cond(no)->op
+&```
 ## git:复选框(github特有的特性)
 >       - [ ] 不勾选
 >       - [x] 勾选
