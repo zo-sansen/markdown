@@ -1,5 +1,14 @@
 #***markdown常见用法***
-        
+>不管你是开发，还是产品，还是测试，还是普通软件使用的运营人员，总之，学会了markdown会对你的工作，生活有莫大的帮助。
+
+有哪些使用markdown的产品呢
+- GitHub
+- 简书
+- CSDN
+- Stack Overflow
+- Apollo
+- 等等
+
 ## 一.标题
 >      #一级标题
 >      ## 二级标题
@@ -121,7 +130,7 @@
 >       </p>
 
 <p align="center">
-    <img src="/blob/master/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
+    <img src="/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
     <p align="center">
         <em>html图片示例</em>
     </p>
@@ -151,6 +160,31 @@ java | html | js
 :-   | :-:  | -:
 小明1234 | 小黄1324 | 小亮123
 刘备 | 关羽 | 张飞
+## 十一.markdown绘制流程图
+
+>       表头|表头|表头
+>       :---|:--:|---:
+>       内容|内容|内容
+>       内容|内容|内容
+> - "\-"有一个就可以了
+> - "\:"对其方式
+
+```flow
+st=>start: Start :>https://amwiki.xf09.net[blank]
+e=>end: End :>https://amwiki.xf09.net[blank]
+op1=>operation: My Operation
+op2=>operation: Stuff
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes or No? :>https://amwiki.xf09.net[blank]
+c2=>condition: Good idea
+io=>inputoutput: catch something...
+
+st->op1(right)->cond
+cond(yes, right)->c2
+cond(no)->sub1(left)->op1
+c2(yes)->io->e
+c2(no)->op2->e
+```
 ## git:复选框(github特有的特性)
 >       - [ ] 不勾选
 >       - [x] 勾选
@@ -169,6 +203,13 @@ java | html | js
 :anguished:
 :raised_hand:
 > [github常用表情代码地址](https://www.webfx.com/tools/emoji-cheat-sheet/)
+
+## IDE:编辑器
+- markdown属于轻量级标记语言
+>   1. 很多系统文本编辑器都可以编辑，windows的记事本，常用的notepad++,liunx的vim,vi都可以
+>   2. 笔者是java开发人员，使用的vscode，idea都有对应插件
+>   3. google浏览器插件：StackEdit Markdown Extension(该官网不一定有下载)[官网](https://stackedit.io/)[在线模式](https://stackedit.io/app#)/Markdown-here[官网](https://markdown-here.com/index.html)等，扩展应用商城搜索”Markdown“有很多,(无法访问google搜索的可以去相关插件网站下载，离线安装google插件)
+
 ## other
 - 反斜杠\：转义符
 
