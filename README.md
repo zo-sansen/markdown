@@ -135,7 +135,6 @@
         <em>html图片示例</em>
     </p>
 </p>
-
 ## 九.超链接
 语法
 >   [超链接名](超链接地址 "超链接title")
@@ -159,9 +158,9 @@
 java | html | js
 :-   | :-:  | -:
 小明1234 | 小黄1324 | 小亮123
-刘备 | 关羽 | 张飞
+刘备 | 关羽 | 张
 ## 十一.markdown绘制流程图
-<font color=gray size=32>放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。</font>
+<font color=Azure size=32>放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。</font>
 
 
 
