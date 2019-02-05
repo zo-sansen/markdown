@@ -105,11 +105,13 @@
 事例：\!\[markdown创始人](https://github.com/younghz/Markdown/raw/master/resource/Aaron_Swartz.jpg)
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif)
 
-###图片大小
+###图片大小(暂时不知道为什么不行)
 语法
 > \!\[](...=300-300-r)
 
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif){:height="100px" width="400px"}
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r)
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif=300-300-r "1234")
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r "1234")
 
 <p align="center">
     <img src="https://img-blog.csdn.net/20180904102458446?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVjaHJpczAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="Sample"  width="250" height="140">
