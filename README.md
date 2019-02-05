@@ -110,8 +110,8 @@
 > \!\[](...=300-300-r)
 
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r)
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif=300-300-r "1234")
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r "1234")
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif "1234")
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif "1234" =300-300-r)
 
 <p align="center">
     <img src="https://img-blog.csdn.net/20180904102458446?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVjaHJpczAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="Sample"  width="250" height="140">
