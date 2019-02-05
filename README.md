@@ -109,7 +109,7 @@
 语法
 > \!\[](...=300-300-r)
 
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-150-r )
+![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif=300-150-r )
 
 ## 九.超链接
 语法
