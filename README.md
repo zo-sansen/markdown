@@ -124,14 +124,14 @@
 ### html标签方式
 >       <p align="center">
 >           <img src="https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
->           <p align="leaft">
+>           <p align="left">
 >               <em>html图片示例</em>
 >           </p>
 >       </p>
 
 <p align="center">
     <img src="/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
-    <p align="leaft">
+    <p align="left">
         <em>html图片示例</em>
     </p>
 </p>
@@ -178,6 +178,7 @@ st->op->cond
 cond(yes)->e
 cond(no)->op
 &```
+
 ## git:复选框(github特有的特性)
 >       - [ ] 不勾选
 >       - [x] 勾选
