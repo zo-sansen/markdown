@@ -143,9 +143,8 @@
 >   \[百度](www.baidu.com)
 >   \[百度](www.baidu.com)
 
->   [百度](www.baidu.com)
-
->   [百度](www.baidu.com)
+>   [百度](https://www.baidu.com)
+>   [必应](https://cn.bing.com/)
 ## 十.表格
 
 >       表头|表头|表头
@@ -160,7 +159,7 @@ java | html | js
 小明1234 | 小黄1324 | 小亮123
 刘备 | 关羽 | 张
 ## 十一.markdown绘制流程图
-<font color=Azure size=32>放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。</font>
+<font color=#b3e0ff size=32>放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。</font>
 
 
 
