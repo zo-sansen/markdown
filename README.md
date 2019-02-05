@@ -161,15 +161,7 @@ java | html | js
 小明1234 | 小黄1324 | 小亮123
 刘备 | 关羽 | 张飞
 ## 十一.markdown绘制流程图
-    ```flow
-    st=>start: 开始
-    op=>operation: My Operation
-    cond=>condition: Yes or No?
-    e=>end
-    st->op->cond
-    cond(yes)->e
-    cond(no)->op
-    &```
+    放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。
 
 ## git:复选框(github特有的特性)
 >       - [ ] 不勾选
