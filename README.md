@@ -161,23 +161,15 @@ java | html | js
 小明1234 | 小黄1324 | 小亮123
 刘备 | 关羽 | 张飞
 ## 十一.markdown绘制流程图
-
->       表头|表头|表头
->       :---|:--:|---:
->       内容|内容|内容
->       内容|内容|内容
-> - "\-"有一个就可以了
-> - "\:"对其方式
-
-```flow
-st=>start: 开始
-op=>operation: My Operation
-cond=>condition: Yes or No?
-e=>end
-st->op->cond
-cond(yes)->e
-cond(no)->op
-&```
+    ```flow
+    st=>start: 开始
+    op=>operation: My Operation
+    cond=>condition: Yes or No?
+    e=>end
+    st->op->cond
+    cond(yes)->e
+    cond(no)->op
+    &```
 
 ## git:复选框(github特有的特性)
 >       - [ ] 不勾选
