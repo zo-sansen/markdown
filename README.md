@@ -110,8 +110,13 @@
 > \!\[](...=300-300-r)
 
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r)
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif "1234")
-![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif "1234" =300-300-r)
+html标签方式
+>       <p align="center">
+>           <img src="https://img-blog.csdn.net/20180904102458446?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVjaHJpczAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="Sample"  width="250" height="140">
+>           <p align="center">
+>               <em>图片示例2</em>
+>           </p>
+>       </p>
 
 <p align="center">
     <img src="https://img-blog.csdn.net/20180904102458446?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L2xvdmVjaHJpczAw/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="Sample"  width="250" height="140">
@@ -119,12 +124,6 @@
         <em>图片示例2</em>
     </p>
 </p>
---------------------- 
-作者：lovechris00 
-来源：CSDN 
-原文：https://blog.csdn.net/lovechris00/article/details/82379382 
-版权声明：本文为博主原创文章，转载请附上博文链接！
-
 
 ## 九.超链接
 语法
