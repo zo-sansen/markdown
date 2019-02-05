@@ -122,14 +122,14 @@
 ![markdown创始人](https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif =300-300-r)
 
 ### html标签方式
->       <p align="center">
+>       <p align="left">
 >           <img src="https://cdn.dribbble.com/users/244516/screenshots/2766513/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
 >           <p align="left">
 >               <em>html图片示例</em>
 >           </p>
 >       </p>
 
-<p align="center">
+<p align="left">
     <img src="/resource/the-hound_big_2_.gif" alt="Sample"  width="250" height="140">
     <p align="left">
         <em>html图片示例</em>
@@ -161,7 +161,7 @@ java | html | js
 小明1234 | 小黄1324 | 小亮123
 刘备 | 关羽 | 张飞
 ## 十一.markdown绘制流程图
-    放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。
+放弃这个东西:joy:，不好用还复杂，觉得还是xmind直接画比较简单粗暴。
 
 ## git:复选框(github特有的特性)
 >       - [ ] 不勾选
